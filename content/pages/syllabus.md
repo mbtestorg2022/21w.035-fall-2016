@@ -24,13 +24,74 @@ Grading
 
 MIT's [Undergraduate Communication Requirement](http://web.mit.edu/commreq/cih.html) specifies that you must write at least 5,000 words over the course of the semester. A word count will be provided along with the criteria for evaluation for each assignment. As you complete each article, check the word count to make sure that you are meeting the requirements. The following items form the basis of your overall grade:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignment 1: Rhetorical Analysis of a News Article | 15% |
-| Assignment 2: An Engaging Translation\* | 15% |
-| Assignment 3: The "Awesome" Profile\* | 20% |
-| Assignment 4: Proposal for Investigative Research Article | 10% |
-| Assignment 5: Investigative Research Article\* | 25% |
-| Participation: Class discussions, bringing in readings and notes, experiments, and written reflections | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1: Rhetorical Analysis of a News Article
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: An Engaging Translation\*
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3: The "Awesome" Profile\*
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 4: Proposal for Investigative Research Article
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 5: Investigative Research Article\*
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation: Class discussions, bringing in readings and notes, experiments, and written reflections
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Late Papers:_ Each day an article is submitted late, the grade is lowered by one-thrid of a letter (e.g. B to B-). For example, an "A" paper submitted ten days late becomes a D-. \*The absence or tardiness of a first draft also lowers the revised article grade.
