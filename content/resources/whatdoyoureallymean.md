@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: caf2e285-9468-753e-d768-bb3bb21a73a3
 resourcetype: Image
 title: WhatDoYouReallyMean?
 uid: 3053fee5-e13c-7c93-e946-6cf417b6742b

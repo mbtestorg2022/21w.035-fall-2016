@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 627f3974-c25a-a707-76bc-c7de064514c3
 resourcetype: Image
 title: ColorTiles
 uid: 1caeb3ef-3b80-e911-7ab9-5ca7afadac33
